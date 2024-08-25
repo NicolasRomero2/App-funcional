@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Puzzle Mania",
+      "category": "rompecabezas",
+      "size": 5000,
+      "price": 15000,
+      "licensesAvailable": 100,
+      "licensesSold": 0,
+      "image": "puzzle-mania.png"
+    },
+    {
+      "id": 2,
+      "name": "Super Blocks",
+      "category": "rompecabezas",
+      "size": 4500,
+      "price": 12000,
+      "licensesAvailable": 150,
+      "licensesSold": 0,
+      "image": "super-blocks.png"
+    }
+  ]
+  
